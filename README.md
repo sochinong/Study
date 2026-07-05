@@ -1,0 +1,2 @@
+# -
+Teaching myself SQL/Python.
